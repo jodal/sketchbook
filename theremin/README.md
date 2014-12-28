@@ -7,4 +7,4 @@ Setup
 -----
 
 - Analog pin A0 connected to a photoresistor.
-- Digtal pin 8 connected to a pietzo.
+- Digtal pin 8 connected to a piezo.
